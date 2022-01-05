@@ -2,6 +2,9 @@
 
 Youtube link: https://youtu.be/fmbl91kXk8E
 
+Project done by:
+Erlan Kerimbekov and Bekzat Zamirbek uulu
+
 Our project inserts to a database table values.
 You should fill text fields in application, and click on button. 
 ![application](https://user-images.githubusercontent.com/73532500/148226423-924ff16c-6cd9-4215-8037-37779c7cc77a.png)
