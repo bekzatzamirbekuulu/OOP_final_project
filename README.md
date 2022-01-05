@@ -3,7 +3,7 @@
 Youtube link: https://youtu.be/fmbl91kXk8E
 
 Our project inserts to a database table values.
-You should fill text field in application, and click on button. 
+You should fill text fields in application, and click on button. 
 ![application](https://user-images.githubusercontent.com/73532500/148226423-924ff16c-6cd9-4215-8037-37779c7cc77a.png)
 
 Then you can see your values in table by running code which in the picture below
