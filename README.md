@@ -2,8 +2,8 @@
 
 Youtube link: https://youtu.be/fmbl91kXk8E
 
-Project done by:
-Erlan Kerimbekov and Bekzat Zamirbek uulu
+## Project done by:
+## Erlan Kerimbekov and Bekzat Zamirbek uulu
 
 Our project inserts to a database table values.
 You should fill text fields in application, and click on button. 
