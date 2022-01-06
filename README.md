@@ -23,4 +23,5 @@ Also you should download a driver(latest version) by this link https://jdbc.post
 
 Then you should add this driver to modules in project structure!
 
-[Скриншот_2022_01_06_11_42_15_745](https://user-images.githubusercontent.com/73532500/148334525-0abd0836-732f-44f1-9b01-95e8358c26c4.png)
+![Скриншот_2022_01_06_11_42_15_745](https://user-images.githubusercontent.com/73532500/148334715-001b7b89-8d29-47b5-b94c-5e849729a024.png)
+
